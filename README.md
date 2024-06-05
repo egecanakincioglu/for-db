@@ -163,3 +163,7 @@ db.destroy(); // Completely destroy the database
 ```
 
 By following this guide, you can effectively utilize ForDB in your Node.js projects, taking advantage of its readability and flexibility.
+
+---
+
+<div class="center"> Developed by Cartel & Papaz Chavo</div>
