@@ -1,0 +1,48 @@
+{
+    "name": "for.db",
+    "version": "4.0.21",
+    "description": "Gözle okunabilir database modülü.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha",
+        "lint": "eslint src --fix"
+    },
+    "types": "types/index.d.ts",
+    "keywords": [
+        "quick.db",
+        "database",
+        "discord.js",
+        "for.db",
+        "turkish",
+        "json",
+        "yaml"
+    ],
+    "author": "Cartel & Papaz",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "BURAYA GİTHUB BU KODU AT"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "yaml": "^1.10.2"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.14.2",
+        "@babel/eslint-parser": "^7.14.2",
+        "@babel/plugin-proposal-class-properties": "^7.13.0",
+        "@babel/plugin-proposal-private-methods": "^7.13.0",
+        "@types/benchmark": "^2.1.0",
+        "@types/lodash": "^4.14.169",
+        "@types/mocha": "^8.2.2",
+        "@types/node": "^14.14.45",
+        "benchmark": "^2.1.4",
+        "eslint": "^7.26.0",
+        "eslint-config-airbnb-base": "^14.2.1",
+        "eslint-plugin-import": "^2.23.2",
+        "mocha": "^8.4.0"
+    }
+}
