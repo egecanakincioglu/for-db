@@ -1,6 +1,6 @@
 {
   "name": "for.db",
-  "version": "4.0.22",
+  "version": "4.0.23",
   "description": "Gözle okunabilir database modülü.",
   "main": "index.js",
   "directories": {
@@ -24,12 +24,20 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "BURAYA GİTHUB BU KODU AT"
+    "url": "git+https://github.com/egecanakincioglu/script.db-io.git"
   },
   "dependencies": {
+    "for.db": "^4.0.22",
     "lodash": "^4.17.21",
     "yaml": "^1.10.2"
   },
+  "bugs": {
+    "url": "https://github.com/egecanakincioglu/script.db-io"
+  },
+  "homepage": "https://github.com/egecanakincioglu/script.db-io",
+  "localMaintainers": [
+    "fordb <egecanakincioglu@icloud.com>"
+  ],
   "devDependencies": {
     "@babel/core": "^7.14.2",
     "@babel/eslint-parser": "^7.14.2",
