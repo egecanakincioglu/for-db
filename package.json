@@ -24,7 +24,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egecanakincioglu/script.db-io.git"
+    "url": "git+https://github.com/egecanakincioglu/for-db.git"
   },
   "dependencies": {
     "for.db": "^4.0.22",
@@ -32,9 +32,9 @@
     "yaml": "^1.10.2"
   },
   "bugs": {
-    "url": "https://github.com/egecanakincioglu/script.db-io"
+    "url": "https://github.com/egecanakincioglu/for-db"
   },
-  "homepage": "https://github.com/egecanakincioglu/script.db-io",
+  "homepage": "https://github.com/egecanakincioglu/for-db",
   "localMaintainers": [
     "fordb <egecanakincioglu@icloud.com>"
   ],
