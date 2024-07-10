@@ -166,4 +166,4 @@ By following this guide, you can effectively utilize ForDB in your Node.js proje
 
 ---
 
-<p align="center">Developed by Cartel & Papaz Chavo</p>
+<p align="center">Developed by Cartelizm & Papaz Chavo</p>
